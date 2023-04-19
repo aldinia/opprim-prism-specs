@@ -1,0 +1,8 @@
+R{"gain"}=? [ F req=n ]- R{"loss"}=? [ F req=n ] - R{"insurance"}=? [ F req=n ]
+
+R{"accepts"}=? [ F req=n ]
+
+R{"refuses"}=? [ F req=n ]
+
+R{"incidents"}=? [ F req=n ]
+
