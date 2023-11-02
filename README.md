@@ -11,7 +11,7 @@ Specification for graph2
 
 Extended version
 
-
+KYC.pm
 
 Metric
 R{"gain"}=? [ F req=n ]- R{"loss"}=? [ F req=n ] - R{"insurance"}=? [ F req=n ]
